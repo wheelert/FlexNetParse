@@ -13,3 +13,9 @@ C:\Users\twheeler\Google Drive\Projects\FlexNetParse\FlexNetParse\bin\Debug\Flex
 C:\Users\twheeler\Google Drive\Projects\FlexNetParse\FlexNetParse\obj\Debug\FlexNetParse.csprojResolveAssemblyReference.cache
 C:\Users\twheeler\Google Drive\Projects\FlexNetParse\FlexNetParse\obj\Debug\FlexNetParse.dll
 C:\Users\twheeler\Google Drive\Projects\FlexNetParse\FlexNetParse\obj\Debug\FlexNetParse.pdb
+C:\Users\twheeler\Documents\GITHUB Projects\FlexNetParse\bin\Debug\FlexNetParse.dll
+C:\Users\twheeler\Documents\GITHUB Projects\FlexNetParse\bin\Debug\FlexNetParse.pdb
+C:\Users\twheeler\Documents\GITHUB Projects\FlexNetParse\obj\Debug\FlexNetParse.csprojAssemblyReference.cache
+C:\Users\twheeler\Documents\GITHUB Projects\FlexNetParse\obj\Debug\FlexNetParse.csproj.CoreCompileInputs.cache
+C:\Users\twheeler\Documents\GITHUB Projects\FlexNetParse\obj\Debug\FlexNetParse.dll
+C:\Users\twheeler\Documents\GITHUB Projects\FlexNetParse\obj\Debug\FlexNetParse.pdb

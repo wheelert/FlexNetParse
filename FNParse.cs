@@ -137,6 +137,8 @@ namespace FlexNetParse
                         _features.Add("MrSID");
                         _features.Add("Plotting");
                         _features.Add("TIFFLZW");
+                        _features.Add("spatialAnalystP");
+                        _features.Add("desktopBasicP");
 
 
 
@@ -173,7 +175,10 @@ namespace FlexNetParse
             String _out = _str.Replace("Viewer", "ArcView Desktop Basic")
                               .Replace("ARC/INFO", "ArcView Desktop Advanced")
                               .Replace("TIN", "3D Analyst")
-                              .Replace("Grid", "Spatial Analyst");
+                              .Replace("Grid", "Spatial Analyst")
+                              .Replace("spatialAnalystP", "Spatial Analyst Pro")
+                              .Replace("desktopBasicP", "ArcView Desktop Basic Pro")
+                              ;
 
             return _out;
 
