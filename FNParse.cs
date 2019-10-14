@@ -139,7 +139,7 @@ namespace FlexNetParse
                         _features.Add("TIFFLZW");
                         _features.Add("spatialAnalystP");
                         _features.Add("desktopBasicP");
-
+                        _features.Add("3DAnalystP");
 
 
                         break;
@@ -178,6 +178,7 @@ namespace FlexNetParse
                               .Replace("Grid", "Spatial Analyst")
                               .Replace("spatialAnalystP", "Spatial Analyst Pro")
                               .Replace("desktopBasicP", "ArcView Desktop Basic Pro")
+                              .Replace("3DAnalystP", "3D Analyst Pro")
                               ;
 
             return _out;
